@@ -1,7 +1,7 @@
 # ATTENTION !!!
-This Project is not made by me, only the MyBot.cs file is edited by me, all the credit for the project goes to 
+THIS PROJECT IS NOT MADE BY ME, only the MyBot.cs file is edited by me, all the credit for the project goes to 
   <a href="https://github.com/SebLague/Chess-Challenge">
-  Sebastian Lague
+  SEBASTIAN LAGUE
   </a>
 
   
