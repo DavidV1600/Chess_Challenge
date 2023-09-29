@@ -9,7 +9,9 @@ I imported all the files of the project so that the user can simply just clone t
 ```sh 
 https://github.com/DavidV1600/Chess_Challenge.git
 ```
-and then click the start button to experience how my bot plays chess. For all the documentation click <a href="https://seblague.github.io/chess-coding-challenge/documentation/"> here
+or just click on the Code button and then click on Open with Visual Studio, and done.
+
+After that click the start button to experience how my bot plays chess. For all the documentation click <a href="https://seblague.github.io/chess-coding-challenge/documentation/"> here
  </a>
 ## About the project
 The project consists of a bot that can play chess at a decent level, built using a limited amount of tokens
